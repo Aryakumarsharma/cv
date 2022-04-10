@@ -11,3 +11,6 @@ hr{
    border-width: 5px;
    width:10% ;}
 .name{color:navy}
+h1:hover{background-color:lightseagreen}
+h2:hover{background-color:lightyellow}
+h3:hover{background-color:lightgoldenrodyellow}
